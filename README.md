@@ -11,7 +11,9 @@
 ## A little more about me... 
 
 ````
- I'm a passionate self-taught and currently studying as a Front End Developer at Laboratoria CL. I am looking forward to gain knowledge🧠 and experience 🏭, I'm creative🎨 and perceptive🔭 with a hands-on approach to problem-solving. I enjoy coding for fun and love to explore and learn new things.
+ I'm a passionate self-taught and currently studying as a Front End Developer at Laboratoria CL. 
+ I am looking forward to gain knowledge🧠 and experience 🏭, I'm creative🎨 and perceptive🔭 with a 
+ hands-on approach to problem-solving. I enjoy coding for fun and love to explore and learn new things.
 ````
 
 *  🧐 Interested in full stack. Recent focus on backend.
