@@ -11,13 +11,14 @@
 ## A little more about me... 
 
 ````
- I'm a passionate self-taught and currently studying as a Front End Developer at Laboratoria CL. I am looking forward to gain knowledge🧠 and experience 🏭, creative🎨 and perceptive🔭 with a hands-on approach to problem-solving. I enjoy coding for fun and love to explore and learn new things.
+ I'm a passionate self-taught and currently studying as a Front End Developer at Laboratoria CL. I am looking forward to gain knowledge🧠 and experience 🏭, I'm creative🎨 and perceptive🔭 with a hands-on approach to problem-solving. I enjoy coding for fun and love to explore and learn new things.
 ````
 
 *  🧐 Interested in full stack. Recent focus on backend.
 * 🔭 I’m currently working on **A Database Movies Finder**
 * 🌱 I’m currently learning **React.js, Mongo DB and Postman**
 * 📫 How to reach me: [natgonzalez2329@gmail.com](mailto:natgonzalez2329@gmail.com).
+* ✈️ I love to travel!!
 * ⚡ Fun fact: I've never have a dog, because I was allergic child, now on my 26 years I finally got one, and his name is Odin ❤️
 * 📝 Checkout my Resume/CV.
 
