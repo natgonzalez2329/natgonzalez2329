@@ -3,7 +3,7 @@
 <h3 align="center"><i>Welcome to my GitHub!</i></h3>
 
 <div align="center">
-<h3><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 🙎 Natasha González | 💻 Front End Developer | 🛸 Venezuelan living in Chilean patagonia  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></h3>
+<h3><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 🙎 Natasha González | 💻 Front End Developer | 🛸 Venezuelan living in Chilean Patagonia  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></h3>
 </div>
 
 -------
