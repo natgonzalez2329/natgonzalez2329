@@ -10,7 +10,6 @@
 
 ## A little more about me... 
 
-<<<<<<< HEAD
 <h3><i>
    I'm a passionate self-taught and currently studying as a Front End Developer at Laboratoria CL. I am looking forward to gain knowledge🧠 and experience 🏭, I'm creative🎨 and perceptive🔭 with a hands-on approach to problem-solving. I enjoy coding for fun and love to explore and learn new things. ✈️ I love to travel!!
   
@@ -18,13 +17,6 @@
 </i></h3>
  
 
-=======
-````
- I'm a passionate self-taught and currently studying as a Front End Developer at Laboratoria CL. 
- I am looking forward to gain knowledge🧠 and experience 🏭, I'm creative🎨 and perceptive🔭 with a 
- hands-on approach to problem-solving. I enjoy coding for fun and love to explore and learn new things.
-````
->>>>>>> c2811af4d085016d997dbb971051bc27b52f4275
 
 *  🧐 Interested in full stack. Recent focus on backend.
 * 🔭 I’m currently working on **A Database Movies Finder**
