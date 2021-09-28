@@ -52,7 +52,7 @@
 
 -------
 
-## 📥 **Platform**
+## 📥 **Platforms**
 
 <a href="#"><img alt="Firebase" src="https://img.shields.io/badge/Firebase-282C34?logo=firebase&logoColor=FFCA28"></a>
 
