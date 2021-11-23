@@ -22,7 +22,7 @@
 * 🔭 I’m currently working on **A Database Movies Finder**
 * 🌱 I’m currently learning **React.js, Mongo DB and Postman**
 * 📫 How to reach me: [natgonzalez2329@gmail.com](mailto:natgonzalez2329@gmail.com).
-* 📝 Checkout my [Resume/CV](https://documentcloud.adobe.com/link/review?uri=urn:aaid:scds:US:0bc82fef-8c81-4ba9-9391-2167a5cba0cb).
+* 📝 Checkout my [Resume/CV](https://documentcloud.adobe.com/link/review?uri=urn:aaid:scds:US:ee5e55dc-f069-4075-ba88-3d08f94e9c1b).
 
 -------
 
