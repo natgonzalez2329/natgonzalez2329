@@ -59,7 +59,7 @@
 
 <a href="#"><img alt="Firebase" src="https://img.shields.io/badge/Firebase-282C34?logo=firebase&logoColor=FFCA28"></a>
 <a href="#"><img alt="MongoDB" src ="https://img.shields.io/badge/MongoDB-4ea94b.svg?logo=mongodb&logoColor=white"></a>
-<a href="#"><img alt="GraphQL" src ="https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white"></a>
+<a href="#"><img alt="GraphQL" src ="https://img.shields.io/badge/-GraphQL-E10098?style=flat-square&logo=graphql"></a>
 
 -------
 ## 👩‍💻 **Currently learning and improving**
@@ -67,7 +67,7 @@
 <p align="center"> 
     <a href="#"><img alt="Docker" src="https://img.shields.io/badge/Docker-282C34?logo=docker&logoColor=blue"></a>
     <a href="#"><img alt="Kubernetes" src="https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white"></a>
-    <a href="#"><img alt="GCP" src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white"></a>
+    <a href="#"><img alt="Google Cloud" src="https://img.shields.io/badge/Google%20Cloud-black?style=flat-square&logo=google-cloud"></a>
 </p>
 
 
