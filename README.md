@@ -40,26 +40,26 @@
 </p>
 
 -------
-## 🛠️ **Tools**
+## 🚀🛠️ **Technologies && Tools**
 
 <p align="center"> 
-    <a href="#"><img alt="Postman" src="https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white"></a>
+    <a href="#"><img alt="Firebase" src="https://img.shields.io/badge/Firebase-282C34?logo=firebase&logoColor=FFCA28"></a>
+    <a href="#"><img alt="MongoDB" src ="https://img.shields.io/badge/MongoDB-4ea94b.svg?logo=mongodb&logoColor=white"></a>
+    <a href="#"><img alt="GraphQL" src ="https://img.shields.io/badge/-GraphQL-E10098?style=flat-square&logo=graphql"></a>
+</p>
+
+<p align="center"> 
     <a href="#"><img alt="Git" src="https://img.shields.io/badge/Git-F05033.svg?logo=git&logoColor=white"></a>
+    <a href="#"><img alt="GitHub" src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github"></a>
+    <a href="#"><img alt="GitLab" src="https://img.shields.io/badge/-GitLab-FCA121?style=flat-square&logo=gitlab"></a>
+    <a href="#"><img alt="Postman" src="https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white"></a>
     <a href="#"><img alt="npm" src="https://img.shields.io/badge/npm-white.svg?logo=npm&logoColor=red"></a>
+    <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white"></a>
     <a href="https://github.com/search?q=user%3ADenverCoder1+language%3Abash"><img alt="Bash" src="https://img.shields.io/badge/Bash-121011.svg?logo=gnu-bash&logoColor=white"></a>
     <a href="https://github.com/search?q=user%3ADenverCoder1+language%3Acss"><img alt="Canva" src="https://img.shields.io/badge/Canva-282C34?logo=canva&logoColor=00c4cc"></a>
     <a href="#"><img alt="Figma" src="https://img.shields.io/badge/Figma-282C34?logo=figma&logoColor=white"></a> 
-    <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white"></a>
     <a href="#"><img alt="SAP" src="https://img.shields.io/badge/SAP-0FAAFF?style=flat-square&logo=sap&logoColor=white"></a>    
 </p>
-
--------
-
-## 📥 **Platforms**
-
-<a href="#"><img alt="Firebase" src="https://img.shields.io/badge/Firebase-282C34?logo=firebase&logoColor=FFCA28"></a>
-<a href="#"><img alt="MongoDB" src ="https://img.shields.io/badge/MongoDB-4ea94b.svg?logo=mongodb&logoColor=white"></a>
-<a href="#"><img alt="GraphQL" src ="https://img.shields.io/badge/-GraphQL-E10098?style=flat-square&logo=graphql"></a>
 
 -------
 ## 👩‍💻 **Currently learning and improving**
