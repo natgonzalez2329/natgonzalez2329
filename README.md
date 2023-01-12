@@ -19,7 +19,7 @@
 
 * 🌱 I’m currently learning **GCP, Docker, Kubernetes**
 * 📫 How to reach me: [natgonzalez2329@gmail.com](mailto:natgonzalez2329@gmail.com).
-* 📝 Checkout my [Resume/CV](https://documentcloud.adobe.com/link/review?uri=urn:aaid:scds:US:ee5e55dc-f069-4075-ba88-3d08f94e9c1b).
+* 📝 Checkout my [Resume/CV](https://acrobat.adobe.com/link/review?uri=urn:aaid:scds:US:f7b63b6c-01f6-30f6-bdfe-5965c090d662).
 
 -------
 
