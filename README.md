@@ -50,7 +50,7 @@
     <a href="https://github.com/search?q=user%3ADenverCoder1+language%3Acss"><img alt="Canva" src="https://img.shields.io/badge/Canva-282C34?logo=canva&logoColor=00c4cc"></a>
     <a href="#"><img alt="Figma" src="https://img.shields.io/badge/Figma-282C34?logo=figma&logoColor=white"></a> 
     <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white"></a>
-    <a href="#"><img alt="SAP" src="https://img.shields.io/badge/SAP-0FAAFF?style=for-the-badge&logo=sap&logoColor=white"></a>    
+    <a href="#"><img alt="SAP" src="https://img.shields.io/badge/SAP-0FAAFF?style=flat-square&logo=sap&logoColor=white"></a>    
 </p>
 
 -------
@@ -66,7 +66,7 @@
 
 <p align="center"> 
     <a href="#"><img alt="Docker" src="https://img.shields.io/badge/Docker-282C34?logo=docker&logoColor=blue"></a>
-    <a href="#"><img alt="Kubernetes" src="https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white"></a>
+    <a href="#"><img alt="Kubernetes" src="https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=flat-square&logo=kubernetes&logoColor=white"></a>
     <a href="#"><img alt="Google Cloud" src="https://img.shields.io/badge/Google%20Cloud-black?style=flat-square&logo=google-cloud"></a>
 </p>
 
