@@ -17,7 +17,6 @@ I’ve led cloud migrations (AWS ➜ GCP), Git platform transitions (GitLab ➜ 
 
 I’m driven by challenges where others see chaos — unstable environments, manual pipelines, and lack of visibility — because that’s where real impact happens.
 
-⚡ Fun fact: I was allergic to dogs as a child… now I finally have one! His name is Odin 🐶❤️
 </i>
 
 * 📌 Currently working at **Entel Digital**
