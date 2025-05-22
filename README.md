@@ -19,7 +19,6 @@ I’ve led cloud migrations (AWS ➜ GCP), Git platform transitions (GitLab ➜ 
 
 * ☁️ Certified in **Google Cloud Architect / Associate Cloud Engineer / Terraform Associate**
 * 💬 Let's connect: [natgonzalez2329@gmail.com](mailto:natgonzalez2329@gmail.com)
-* 📄 Check out my [Resume/CV](https://acrobat.adobe.com/link/review?uri=urn:aaid:scds:US:f7b63b6c-01f6-30f6-bdfe-5965c090d662)
 
 -------
 
